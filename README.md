@@ -53,3 +53,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 3. Essai
 ![alt text](public/images/3.png)
+
+
+4. Tugas
+![alt text](public/images/4.png)
