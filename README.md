@@ -40,17 +40,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 |  | Pemrograman Berbasis Framework 2025 |
 |--|--|
-| NIM |  2241720083 |
-| Nama |  Ahmed Fathir Syafaat |
+| NIM |  2241720138 |
+| Nama |  Fatriya Ibnu Ash shidiqqi |
 | Kelas | TI - 3C |
 
 ### Praktikum
+1. Tentang saya
 ![alt text](public/images/1.png)
 
-### Tugas
-Eksplorasi Tailwindcss, kemudian.
-1. Modifikasi halaman "Esai" dengan Grid daftar artikel yang telah ditulis.
+2. Proyek
 ![alt text](public/images/2.png)
 
-2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik
+3. Essai
 ![alt text](public/images/3.png)
